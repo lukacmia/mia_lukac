@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1{
+ font-family:TechnicBold;
+ font-size: 40px; 
+ line-height:32px;
+ width: 350px;
+ background-color: MediumPurple; opacity: 3
+ width: 20px; height: 60px;
+ padding: 20px;
+ 
+ }
+ h3{
+ font-family: TechnicBold;
+ font-size: 20px; 
+ line-height: 17px;
+ width: 100px;
+ background-color: MediumPurple; opacity: 0.7
+ width: 10px; height: 40px;
+ padding: 10px;
+ 
+ }
+
+ 
+ body {background-image: url("MULTIMEDIJA/nasa.jpg");
+ }
